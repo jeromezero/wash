@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "drafts"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "builds"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "resources"
+		}
+	]
+}
