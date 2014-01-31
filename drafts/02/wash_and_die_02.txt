@@ -1,7 +1,45 @@
-<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+% Wash and Die book 2: BLOOD SWEAT AND BEERS
+% Sethy Wethy
+  Jerome Steegmans
 
-# WASH AND DIE part 2: Blood, Sweat and Beers
-## Tug Job Grandma - <!-- STATUS: edit 3 -->
+
+<p class="center"> Wash and Die book 2: BLOOD SWEAT AND BEERS<br />
+Copyright © 2014 by Caligo Press</p>
+
+<p>
+This work (and everything Caligo Press does) is licensed under a [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/us/)—that means you are free to appropriate, remix and reuse anything you find here, so long as you pass those same terms forward and give credit where it is due.
+</p>
+
+<div class="center">
+[www.caligopress.com](http://www.caligopress.com)\
+
+
+[shitcity.caligopress.com](http://shitcity.caligopress.com)\
+
+[facebook.com/CaligoPress](http://facebook.com/CaligoPress)\
+
+
+[plus.google.com/+Caligopress](http://plus.google.com/+Caligopress)\
+
+
+Design by Caligo Press\
+
+First Caligo Edition: January 2014\
+
+
+
+### Caligo Press
+
+San Francisco, CA 94109
+
+</div>
+
+![line-break](./data_dir/images/line_break.png)\
+
+
+
+# BLOOD SWEAT AND BEERS
+## Tug Job Grandma <!-- STATUS: edit 3 -->
 
 Matt Lamott was born to mop. 
 
@@ -67,9 +105,12 @@ Tonguing his chipped tooth, Matt is filled with all sorts of emotions. He even k
 
 Matt leans his mop against the wall and heads out to buy dinner. Laundra will be home soon. 
 
---- 
 
-<!-- 2013-12-18 | 17:07:28 -->
+
+![line-break](./data_dir/images/line_break.png)\
+
+
+
 ## Laundra's Wet Dreams <!-- STATUS: edit 3 -->
 
 Matt and Laundra sit on a pile of clothes in the middle of THE CLOTHING CLEANING STORE, completely naked, except for the socks on their feet. His are pink. Hers are yellow. They shovel carne asada fries into their mouths. 
@@ -124,7 +165,8 @@ Laundra mops a stream of cream from Matt's chin with a handful of fries and shov
 
 <!-- 2013-12-18 | 17:57:16 -->
 
----
+![line-break](./data_dir/images/line_break.png)\
+
 
 ## Matt and Laundra Eat and Fuck  <!-- STATUS: edit 3 --> 
 
@@ -148,7 +190,8 @@ Matt groans with immediate and ecstatic relief. "DELISH!" he cries as he squirts
 
 He uncurls and pulls Laundra into a sticky embrace. They kiss and settle comfortably into the greasy bed of carne asada fries, floating high above the stench and depravity of SHIT CITY. Guacamole-crowned grandmas hover nearby like cherubs in the sky. Harp music plays.
 
----
+![line-break](./data_dir/images/line_break.png)\
+
 
 Matt awakes to a sleeping Laundra at his side. He sits up to see if any carne asada fries are left. No such luck. He lies back down and stares at the ceiling, letting his mind wander off. He's parched. A drink would help. 
 
@@ -160,7 +203,8 @@ Matt slips the bottle back into its secret spot and sneaks back to the nest of c
 
 "Wash and die," three grandmas whisper in the dark. 
 
----
+![line-break](./data_dir/images/line_break.png)\
+
 
 ## Out of Order <!-- STATUS: edit 3 -->
 
@@ -244,7 +288,8 @@ Laundra looks around and lets out a sigh. "Bitch, this place is a shithole."
 
 And then the television flickers on.
 
----
+![line-break](./data_dir/images/line_break.png)\
+
 
 ## Lucius - As Seen On TV <!-- STATUS: edit 3 -->
 
@@ -284,7 +329,8 @@ How does Lucius do it?
 
 "Matt, you're such a pussy," Laundra says. "A pussy with a drinking problem."
 
----
+![line-break](./data_dir/images/line_break.png)\
+
 
 ## Matt's Just A Jealous Guy <!-- STATUS: edit 3 -->
 
@@ -383,7 +429,8 @@ He crushes the can in his fist and chucks it into the gutter. He flips it off an
 
 Matt's fine. He's just fine. He's not drunk.
 
----
+![line-break](./data_dir/images/line_break.png)\
+
 
 The other day Matt had to evict a family of grandmas from their nest in the rafters. He stood on top of one of the triple-load washers and waved his mop around to shoo them away. They took off with a noisy clapping sound and Matt destroyed their flimsy stick-and-debris nests, smashing them to pieces with his mop.  
 
@@ -450,6 +497,9 @@ Matt looks up to find he is surrounded by a gaggle of scaly grandmas, all flippi
 
 He runs to close the door and leans his weight into it, fighting the force of the storm. A fierce bolt of lightning strikes a homeless person dead in the street before Matt can push the door closed.
 
+![line-break](./data_dir/images/line_break.png)\
+
+
 ## Mop Water Blues <!-- STATUS: edit 3 --> 
 
 Matt reaches into another out-of-order washer and pulls out a half-finished forty of DETERGENT Malt Liquor: Malt Liquor For Men Who Drink DETERGENT Malt Liquor! He takes a swig to calm his nerves. 
@@ -476,7 +526,8 @@ Life be damned. Love be damned. Clothing be damned. Laundra be damned. Lucius be
 
 <!-- The only way to be honest and clean is to be homeless and filthy like the rest of the flea-ridden vagrant scum living on the streets, sucking on the shit-caked sidewalks. Matt wasn't made of durable material. He has always known this. It's why he has always run away. Retarded riff-raff on the run. -->
 
----
+![line-break](./data_dir/images/line_break.png)\
+
 
 ## Laundra Confronts Matt <!-- STATUS: edit 3 -->
 
@@ -518,7 +569,8 @@ Flattop.
 
 It's so hot right now.    
 
----
+![line-break](./data_dir/images/line_break.png)\
+
 
 The strand of bells hanging by the front door of THE CLOTHING CLEANING STORE jingles, drawing Matt out of his pop-up book nightmare. 
 
@@ -570,7 +622,10 @@ Matt touches his dick.
 
 "I'll find some socks and I'll clean myself up--I'll get a haircut," Matt says, touching his dick, loving Laundra and thinking of Lucius. 
 
-## UGG Boots - Do You Believe in Love? - <!-- STATUS: edit 3 -->
+![line-break](./data_dir/images/line_break.png)\
+
+
+## UGG Boots - Do You Believe in Love? <!-- STATUS: edit 3 -->
 
 Matt heads out into the rain. He knows where to find some socks. Shoes too. Sally in the Alley. The whore corpse from the other day. It looked like somebody tried to chop up Sally with a hatchet, but she had big feet in big beautiful UGG boots. She probably had socks on too. 
 
@@ -724,7 +779,10 @@ Matt ignores her.
 
 His feet are burning up but he doesn't care. "I feel lighter on my feet," Matt says aloud to no one in particular.
 
-## Matt gets a Haircut and some News <!-- STATUS: edit 3 -->
+![line-break](./data_dir/images/line_break.png)\
+
+
+## Matt gets a Haircut <!-- Remove "and Some News"? --> <!-- STATUS: edit 3 -->
 
 "BARBER SHOP!" Matt yells as he opens the door to the barber shop. It smells of decomposing flesh. A smoke machine is throbbing and puffing out smoke. Matt can't see anything. He coughs. 
 
