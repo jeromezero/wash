@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'IM FELL English PRO';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/IMFeENrm29C.otf');
+}
+
+@font-face {
+    font-family: 'IM FELL English PRO';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../Fonts/IMFeENit29C.otf');
+}
+
+@font-face {
+	font-family: 'Paytone One';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../Fonts/PaytoneOne.ttf')
+}
+
+body {
+font-family: 'IM FELL English PRO', serif;
+text-align: justify;
+}
+
+h1, h2 {
+font-family: 'Paytone One', sans-serif;
+text-align: center;
+}
+
+h3 {
+    font-family: 'Paytone One', sans-serif;
+    page-break-before: always;
+}
+
+
+h4, h5 {
+font-family: 'Paytone One', sans-serif;
+}
+
+blockquote {
+
+font-style: italic;
+}
+
+.author {
+    page-break-before: avoid;
+    page-break-after: avoid;
+}
+
+.center 
+{
+    text-align:center;
+}
+
+.right {
+text-align: right;
+}
+
+
+.footnotes {
+page-break-before:always;
+}
+
+img[alt=line-break] { 
+    margin-left: 35%;
+    width: 30%; }
