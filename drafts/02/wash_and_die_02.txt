@@ -34,6 +34,8 @@ San Francisco, CA 94109
 
 </div>
 
+![line-break](./data_dir/images/line_break.png)\
+
 
 
 # BLOOD SWEAT AND BEERS
@@ -780,45 +782,55 @@ His feet are burning up but he doesn't care. "I feel lighter on my feet," Matt s
 ![line-break](./data_dir/images/line_break.png)\
 
 
-## Matt Lamott and the Flattop <!-- Remove "and Some News"? --> <!-- STATUS: edit 3 -->
+## Matt Lamott and the Flattop <!-- STATUS: edit 3 -->
 
-"BARBER SHOP!" Matt yells as he opens the door to the barber shop. It smells of decomposing flesh. A smoke machine throbs and puffs out smoke. Matt can't see anything. He coughs. 
+"BARBER SHOP!" Matt yells as he opens the door to the barber shop. 
 
-<!-- TODO: chance for a door chime: An electronic, traditional Polish polka signals his entrance.  -->
+The bouncing electronic melody of a polka-programmed door chime proclaims his presence. <!-- too much? how about: A bouncing electronic polka chirps out of a door chime. -- or -- The lo-fi chirp of a bouncing polka announces his arrival.  -->
 
-"Hello?" 
+<!-- TODO: maybe rephrase this and place it elsewhere?: As the inventor of the door chime and with a tradition of fashion and quality that dates back to 1936, NuTone continually researches and develops innovative new products and is the market leader in new technologies. NuTone is the right choice in chimes and pushbuttons - from Contemporary to Traditional styles, musical, portable chimes or wireless  -  the choice is yours.
+
+First impressions mean everything, and there is no better way to make an impression than by greeting your guests with the elegant sound and style of a NuTone door chime and pushbutton. Your chime is a unique statement of your personality. With ultimate versatility, our decorative chimes accent any design you may have in your home whether you enjoy timeless simplicity, contemporary sophistication or classic style. NuTone offers features to make your life more convenient and safe with visual notifications, customizable audio, and installations for multiple entrances.
+
+With a tradition of fashion and quality that dates back to 1936, NuTone continually researches and develops innovative products and is the market leader in new technologies. As the inventor of the door chime, the NuTone name is synonymous with door greeting mechanisms. Popular global and domestic trends are applied to all of our products, so you can benefit from the most current styles. 
+
+- See more at: http://www.nutone.com/products/product-line/door-chimes#sthash.1aW0kOis.dpuf -->
+
+It smells of decomposing flesh. A smoke machine throbs and puffs out smoke. Matt can't see anything. He coughs. 
+
+"Hello?"
 
 Matt waves the smoke away from his face. An obese man appears as if from a dream. Matt is immediately repulsed.
 
 "I am barber," the man says, offering his swollen hand.
 
-Matt ignores the gesture and avoids eye contact. The thought of running away flashes through his mind. He looks instead at a TV mounted on the wall. It flickers seductively.
+Matt ignores the gesture and avoids eye contact. The thought of running away flashes through his mind. He looks instead at a TV mounted on the wall. It flickers seductively. "I want a haircut," Matt says.
 
-"I cut hair," the obese barber says, smoke billowing from his gaping mouth. Sweat beads on his face and neck. His neck bulging as if he had just swallowed a rodent whole. His hair matted and damp.
+"I make haircut," the barber says, smoke billowing from his gaping mouth. Beads of sweat slide down his face and neck, which bulges like a bedsheet crawling with rats. His hair staggers across the top of his head, matted, damp and heavy with ennui.
 
 "Flattop," Matt says. 
 
-"I give haircut." The obese man points to his barber chair.
+"I make haircut." The obese man points to his barber chair.
 
 The TV shouts: 
 
 > The Executioner II Barber Chair features a cutting edge modern chair design. Features a heavy-duty and spacious seating area that fits any customer comfortably. A single recline lever simultaneously reclines backrest and raises footrest. Adjustable and removable headrest. Durable construction of chair and hydraulic base makes this a favorite with barbers.
 
-Matt sits. "This chair isn't very comfortable," he says. His shoulders are tense, hunched up around his neck. 
+Matt sits. "This chair isn't very comfortable," he says. His shoulders are tense and hunched up around his neck. 
 
-Matt looks at the smudged and warped mirror in front of him. Sees his hair and shakes his head in disappointment. 
+Matt looks at the smudged and warped mirror in front of him. He looks at himself and shakes his head in disappointment. 
 
-He studies the countertop below the mirror. A row of chipped wooden bowls, turned upside down, line the countertop. Each bowl is marked with an old and yellowed tag. Each tag is labeled. The handwriting on the tags looks like chicken scratch. Misspellings abound. 
+He studdies a row of chipped wooden bowls, open side down, lining the countertop below the mirror. Each bowl is marked with chickenscratch writing on an old yellowed tag. 
 
-Matt tries to read each label:
+The tags read:
 
-BRUSCH KUTT
-BERR KUTT
-BOLL KUTT
-KREW KUTT
-POMPADOOR KUTT
-FAYDE KUTT
-FLAHTOPP KUTT
+* BRUSCH KUTT
+* BERR KUTT
+* BOLL KUTT
+* KREW KUTT
+* POMPIADOOR KUTT
+* FAYDE KUTT
+* FLAHTOPP KUTT
 
 "I want a flattop," Matt says.
 
@@ -826,17 +838,19 @@ The barber snaps his scissors. "I give bowl cut," he says, struggling with the w
 
 "I don't want a bowl cut. I want a flattop," Matt snaps. 
 
-The barber drapes a cloth over Matt, attaching it at his neck. For a split second, the barber puts his hands around Matt's throat. He quickly releases his grip. 
+The barber drapes a cloth over Matt. He spends a long time attaching it at the neck. He locks his fingers around Matt's throat and presses his thumbs into the vertebrae at the back of his neck. He forces Matt to look into the mirror. He forces Matt to look at him.
 
-"Okay, I give flattop," the barber gurgles, swallowing the last results of his violent expectoration. 
+The barber's eyes are tiny and black. They shine like drops of crude oil seeping through the pinprick sockets of his blotched and pasty face.
+
+"Okay, I give flattop," the barber gurgles, swallowing the last lingering results of his violent expectoration. 
 
 "Flattop," Matt repeats. 
 
-The barber lowers his face down to Matt's and says, quite loudly and insistently, "I give flattop." He spins Matt around in the chair. "I cut f-f-fuck out of you." He grabs the wooden bowl labeled FLAHTOPP KUTT and places it on Matt's head.
+The barber lowers his face down to Matt's and says, his voice loud and manic, "I give flattop." He spins Matt around in the chair. "I cut f-f-fuck out of you." He grabs the wooden bowl labeled FLAHTOPP KUTT and places it on Matt's head.
 
 Matt squirms. "I don't  want a bowl cut. I want a flattop."
 
-The barber holds Matt down. "No bowl cut. This flattop. Shut fuck up." He snaps his scissors repeatedly. 
+The barber holds Matt down. "No bowl cut. I make flattop. Okay?" He points to the bowl on the counter marked with the words BOLL KUTT. "This for bowl cut." He knocks on the bowl on Matt's head with the back of his comb. "This for flattop cut." He snaps his scissors repeatedly. 
 
 Matt freezes. He feels uncomfortable. He stares at the television set, hoping it will save him. The barber goes to work.  
 
@@ -876,9 +890,9 @@ The song playing on the television draws to a close and is replaced by the rich 
 
 > "Come on Down, Matthew Lamott. While the Network is compassionate, and sorry for your loss, we are also very pleased to present you with GREAT INHERITANCE. So come on down to the FONTIS HOTEL and make your claim!"
 
-The barber chirps, "Oooh ... your daddy dead, Matty." He removes the bowl from Matt's head. "You no move head." He pushes Matt back into his chair. Sweat drips from the barber's lumpy, bulbous nose and splashes down into Matt's half-formed bowl cut. Matt can see the sweat drop in the mirror, he feels it smack his freshly exposed scalp.
+The barber chirps, "Oooh ... your daddy dead, Matty." He removes the bowl from Matt's head. "You no move head." He pushes Matt back into his chair. Sweat drips from the barber's lumpy, bulbous nose and splashes down into Matt's hair. Matt can see the sweat drop in the mirror, he feels it smack onto his scalp.
 
-Sweat continues to drip onto Matt's head. The barber massages the sweat into Matt's hair. Matt can see that he has a bowl cut and not a flattop.
+Sweat continues to drip onto Matt's head. The barber massages the sweat into Matt's hair. Matt's hair is awfully round and bowl-like for a flattop.
 
 "My name is Matt," Matt exclaims. "Make my top flat!"
 
@@ -890,9 +904,9 @@ Ignoring the question, Matt says, "I've been estranged from my father for so lon
 
 The barber stands still, staring at Matt through the mirror. 
 
-"Laundra was right," Matt continues, "Thank goodness I've decided to sober up and take responsibility. Otherwise, I might've missed this opportunity entirely. Perhaps the first step toward a fulfilling and emotional life is the ability to recognize the absence of my own feelings."
+"Laundra was right," Matt continues, "Thank goodness I've decided to sober up and take some responsibility for myself. Otherwise, I might've missed this opportunity entirely. Perhaps the first step toward a fulfilling and emotional life is the ability to recognize the absence of my own feelings."
 
-"You shut up. You like flattop?" The Barber shields Matt's face with an outdated copy of NINJAS WITH BOOBS as he sprays product into Matt's hair, sculpting the fibers into a chunky, uneven mockery of a flattop. Matt clearly has a bowl cut that has been loaded with gel and sweat: a failed attempt to disguise a bowl cut into a tall and unwieldy flattop.
+"You shut up. You like flattop?" The Barber shields Matt's face with an outdated copy of NINJAS WITH BOOBS as he sprays product into Matt's hair, sculpting the fibers into a chunky, uneven mockery of a flattop. 
 
 Matt stands up. "Goddamn, I could really do something with all that money! My dad was quite wealthy, you know; the FONTIS HOTEL is an institution. I could rebuild THE CLOTHING CLEANING STORE for Laundra. She'll never have to talk to that dick, Lucius, again."
 
