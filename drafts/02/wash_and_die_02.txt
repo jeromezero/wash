@@ -786,15 +786,17 @@ His feet are burning up but he doesn't care. "I feel lighter on my feet," Matt s
 
 "BARBER SHOP!" Matt yells as he opens the door to the barber shop. 
 
-The bouncing electronic melody of a polka-programmed door chime proclaims his presence. <!-- too much? how about: A bouncing electronic polka chirps out of a door chime. -- or -- The lo-fi chirp of a bouncing polka announces his arrival.  -->
+A bouncing polka door chime announces his arrival. [^doorchime]
 
-<!-- TODO: maybe rephrase this and place it elsewhere?: As the inventor of the door chime and with a tradition of fashion and quality that dates back to 1936, NuTone continually researches and develops innovative new products and is the market leader in new technologies. NuTone is the right choice in chimes and pushbuttons - from Contemporary to Traditional styles, musical, portable chimes or wireless  -  the choice is yours.
+<!-- TODO: bells / door chimes in part one -->
 
-First impressions mean everything, and there is no better way to make an impression than by greeting your guests with the elegant sound and style of a NuTone door chime and pushbutton. Your chime is a unique statement of your personality. With ultimate versatility, our decorative chimes accent any design you may have in your home whether you enjoy timeless simplicity, contemporary sophistication or classic style. NuTone offers features to make your life more convenient and safe with visual notifications, customizable audio, and installations for multiple entrances.
-
-With a tradition of fashion and quality that dates back to 1936, NuTone continually researches and develops innovative products and is the market leader in new technologies. As the inventor of the door chime, the NuTone name is synonymous with door greeting mechanisms. Popular global and domestic trends are applied to all of our products, so you can benefit from the most current styles. 
-
-- See more at: http://www.nutone.com/products/product-line/door-chimes#sthash.1aW0kOis.dpuf -->
+[^doorchime]: As the inventor of the door chime and with a tradition of fashion and quality that dates back to 1936, NuTone is the market leader in new technologies. NuTone is the right choice in chimes and pushbuttons - from Contemporary to Traditional styles, musical, portable chimes or wireless--the choice is yours.\
+\
+First impressions mean everything, and there is no better way to make an impression than by greeting your guests with the elegant sound and style of a NuTone door chime and pushbutton. Your chime is a unique statement of your personality. With ultimate versatility, our decorative chimes accent any design you may have in your home whether you enjoy timeless simplicity, contemporary sophistication or classic style. NuTone offers features to make your life more convenient and safe with visual notifications, customizable audio, and installations for multiple entrances.\
+\
+With a tradition of fashion and quality that dates back to 1936, NuTone continually researches and develops innovative products and is the market leader in new technologies. The NuTone name is synonymous with door greeting mechanisms. Popular global and domestic trends are applied to all of our products, so you can benefit from the most current styles. \
+\
+See more at: [nutone.com](http://www.nutone.com/products/product-line/door-chimes#sthash.1aW0kOis.dpuf) 
 
 It smells of decomposing flesh. A smoke machine throbs and puffs out smoke. Matt can't see anything. He coughs. 
 
@@ -834,23 +836,31 @@ The tags read:
 
 "I want a flattop," Matt says.
 
-The barber snaps his scissors. "I give bowl cut," he says, struggling with the words as they modulate into a phlegmy coughing fit.
+The barber snaps his scissors. "I make bowl cut," he says, struggling with the words as they modulate into a phlegmy coughing fit.
 
 "I don't want a bowl cut. I want a flattop," Matt snaps. 
 
-The barber drapes a cloth over Matt. He spends a long time attaching it at the neck. He locks his fingers around Matt's throat and presses his thumbs into the vertebrae at the back of his neck. He forces Matt to look into the mirror. He forces Matt to look at him.
+The barber drapes a cloth over Matt and spends a long time attaching it at the neck. His sausage fingers fumble with the Velcro. He gets his hands around Matt's neck.
 
-The barber's eyes are tiny and black. They shine like drops of crude oil seeping through the pinprick sockets of his blotched and pasty face.
+Matt looks at him through the mirror.
 
-"Okay, I give flattop," the barber gurgles, swallowing the last lingering results of his violent expectoration. 
+The barber's grip is firm. His eyes are tiny and black. They shine like drops of crude oil seeping through the pinprick sockets of his swollen face.
+
+The barber lets go.
+
+"Okay, I make flattop," the barber gurgles. 
 
 "Flattop," Matt repeats. 
 
-The barber lowers his face down to Matt's and says, his voice loud and manic, "I give flattop." He spins Matt around in the chair. "I cut f-f-fuck out of you." He grabs the wooden bowl labeled FLAHTOPP KUTT and places it on Matt's head.
+The barber slides a soft fat sweat-slick hand up to the side of Matt's head, slipping his thumb into Matt's ear. 
+
+He presses his face to Matt's. Cheek to cheek they stare at each other through mirror.
+
+"I make flattop," the barber says. He stands up and spins Matt around in the chair. "I cut f-f-fuck out of you." He grabs the wooden bowl labeled FLAHTOPP KUTT and places it on Matt's head.
 
 Matt squirms. "I don't  want a bowl cut. I want a flattop."
 
-The barber holds Matt down. "No bowl cut. I make flattop. Okay?" He points to the bowl on the counter marked with the words BOLL KUTT. "This for bowl cut." He knocks on the bowl on Matt's head with the back of his comb. "This for flattop cut." He snaps his scissors repeatedly. 
+The barber holds Matt down. "No bowl cut. I make flattop. Okay?" He points to the bowl on the counter marked with the words BOLL KUTT. "This make bowl cut." He knocks the bowl on Matt's head with the back of his comb. "This make flattop." He snaps his scissors. 
 
 Matt freezes. He feels uncomfortable. He stares at the television set, hoping it will save him. The barber goes to work.  
 
