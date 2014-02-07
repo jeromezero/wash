@@ -1,9 +1,11 @@
-% Wash and Die book 2: BLOOD SWEAT AND BEERS
+% Wash and Die\
+  book 2\
+  BLOOD SWEAT AND BEERS
 % Sethy Wethy
   Jerome Steegmans
 
 
-<p class="center"> Wash and Die book 2: BLOOD SWEAT AND BEERS<br />
+<p class="center">
 Copyright © 2014 by Caligo Press</p>
 
 <p>
@@ -33,9 +35,6 @@ First Caligo Edition: January 2014\
 San Francisco, CA 94109
 
 </div>
-
-![line-break](./data_dir/images/line_break.png)\
-
 
 
 # BLOOD SWEAT AND BEERS
@@ -197,6 +196,8 @@ Matt awakes to a sleeping Laundra at his side. He sits up to see if any carne as
 
 Matt quietly gets up and tiptoes past three grandmas peacefully snoring on the floor. He crinkles his brow. Where'd that third one come from? 
 
+He reaches surreptitiously into a dryer marked with an out-of-order sign and pulls out a bottle of swill. He takes a couple of swigs and swishes the fiery stuff around his mouth.
+
 Matt slips the bottle back into its secret spot and sneaks back to the nest of clothing. He scratches idly at his dick while sniffing Laundra's hair.
 
 "To wash or not to wash?" Matt whispers. 
@@ -245,7 +246,7 @@ Laundra has been attending more and more clothing cleaning seminars, and Matt is
 "I'll start by fixing that sign," she says, gesturing to the soft glow of the neon shining through the window.
 
 <div class="center">
-**THE _LOTHING CLEANING S_ORE**
+**THE \_LOTHING CLEANING S\_ORE**
 </div>
 
 "Shouldn't Lucius fix that sign without forcing you to do some stupid TV thing? That sounds like ... what's the word? Embezzlement?" Matt wishes he wouldn't have dropped out of college. 
@@ -338,7 +339,7 @@ Matt stares at his mop from across the room in THE CLOTHING CLEANING STORE. He t
 
 The floor isn't that dirty. He'll mop later. He could go for a beer instead. He should start lifting weights so he can lift these machines up. Maybe get a haircut too.
 
-"Drinking problem?" he thinks aloud. "Where does Laundra get off telling him *he* has a drinking problem? She's the one obsessed with wine. And Lucius. 
+"Drinking problem?" he thinks aloud. Where does Laundra get off telling him *he* has a drinking problem? She's the one obsessed with wine. And Lucius. 
 
 Matt addresses the flock of grandmas folding fabrics, "Do I have a drinking problem?" 
 
@@ -551,7 +552,7 @@ Laundra takes her panties off and hands them to Lucius.
 
 <!-- TODO: globally replace all panty references to unified panty epithet (polka dot or ladybug?) -->
 
-He presses them to his face, inhaling deeply. His eyes roll back into his head, marveling at the beauty of his own flattop seen from inside his own head. 
+He presses them to his face, inhaling deeply. His eyes roll back into his head, marveling at the beauty of his own flattop as seen from the inside. 
 
 "Observe," Lucius says as he holds the panties up for the audience to see. He rips them apart. "The fabric, in it's natural state, is *weak*." 
 
@@ -757,7 +758,9 @@ Lying in the gutter on his side, Matt watches the pulsating heart slow to a rhyt
 
 "Sally? Is that yours?" Matt asks. "Do hookers have hearts?" Maybe it's a pig heart. 
 
-Matt lurches forward to pick it up. He reaches a hand out, just barely touching it with the tips of his fingers. It twitches. A big milky rat eye unfurls from a fold of flesh and stares up at Matt.
+Matt reaches toward the heart. It's too far away. He stretches, brushes it with the tips of his fingers. It twitches. A big milky rat eye unfurls from a fold of flesh and stares up at Matt.
+
+The heart is a rat.
 
 The rat unrolls and stretches and bites Matt's finger before scurrying into the garbage.
 
@@ -858,7 +861,7 @@ He presses his face to Matt's. Cheek to cheek they stare at each other through m
 
 "I make flattop," the barber says. He stands up and spins Matt around in the chair. "I cut f-f-fuck out of you." He grabs the wooden bowl labeled FLAHTOPP KUTT and places it on Matt's head.
 
-Matt squirms. "I don't  want a bowl cut. I want a flattop."
+Matt squirms. "I don't want a bowl cut. I want a flattop."
 
 The barber holds Matt down. "No bowl cut. I make flattop. Okay?" He points to the bowl on the counter marked with the words BOLL KUTT. "This make bowl cut." He knocks the bowl on Matt's head with the back of his comb. "This make flattop." He snaps his scissors. 
 
@@ -920,7 +923,7 @@ The barber stands still, staring at Matt through the mirror.
 
 Matt stands up. "Goddamn, I could really do something with all that money! My dad was quite wealthy, you know; the FONTIS HOTEL is an institution. I could rebuild THE CLOTHING CLEANING STORE for Laundra. She'll never have to talk to that dick, Lucius, again."
 
-The barber stares with dull eyes and mouth open.
+The barber stares with dull eyes and open mouth.
 
 Matt wipes gel and sweat that has dripped down the side of his head. "All I need to do is claim GREAT INHERITANCE." Matt's eyes light up. "I must face my past and return to the FONTIS HOTEL, the property in which I was raised by my family, all of whom are now dead, for my father was the last living relative beknownst to me."
 
