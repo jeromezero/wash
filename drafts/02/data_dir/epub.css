@@ -24,14 +24,21 @@ font-family: 'IM FELL English PRO', serif;
 text-align: justify;
 }
 
-h1, h2 {
+h1 {
 font-family: 'Paytone One', sans-serif;
 text-align: center;
 }
 
+h2 {
+    font-family: 'Paytone One', sans-serif;
+    text-align: center;
+    page-break-before: always;
+}
+
 h3 {
     font-family: 'Paytone One', sans-serif;
-    page-break-before: always;
+    text-align: center;
+
 }
 
 
